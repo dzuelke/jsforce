@@ -1,5 +1,5 @@
 browser
-lib
+!lib/browser
 module
 
 .npmignore
